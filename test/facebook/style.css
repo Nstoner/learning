@@ -1,0 +1,50 @@
+
+.maincontainer {
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 1024px;
+    justify-content: center;
+    margin: 0 auto;
+    background-color: #F0F2F5;
+
+}
+
+.leftcontainer {
+    width: 450px;
+    height: 300px;
+    margin-top: 200px;
+}
+
+.facebook {
+    font-size: 50px;
+    font-weight: bolder;
+    margin-bottom: 15px;
+    color: blue;
+}
+
+.letter {
+    font-size: 25px;
+}
+
+.rightcontainer {
+    width: 450px;
+    height: 400px;
+    background-color: #FFFFFF;
+    margin: 150px auto;
+    
+}
+
+.input {
+    width: 390px;
+    height: 30px;
+    margin-bottom: 8px;
+}
+
+.inputcontainer {
+    justify-content: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
